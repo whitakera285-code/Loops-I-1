@@ -1,0 +1,1 @@
+Re-write the while loop as a for loop.
